@@ -3,7 +3,7 @@
 ## Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/dhiraj-2024/payplex-employee-management-assignment.git
 cd payplex-employee-management-assignment
 ```
 
