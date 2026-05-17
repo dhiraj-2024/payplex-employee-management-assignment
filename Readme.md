@@ -148,3 +148,15 @@ http://localhost:5173/
 * PostgreSQL Integration
 * Protected Routes
 * Modern UI with Tailwind CSS
+
+# Application overview 
+
+<img width="1440" height="812" alt="Screenshot 2026-05-18 at 12 50 45 AM" src="https://github.com/user-attachments/assets/22e809e0-c275-466c-b26e-9a35525058d3" />
+
+<img width="1440" height="812" alt="Screenshot 2026-05-18 at 12 50 56 AM" src="https://github.com/user-attachments/assets/73e8d9c2-da30-49f9-b5bc-699cdaac85e1" />
+
+<img width="1440" height="812" alt="Screenshot 2026-05-18 at 1 17 18 AM" src="https://github.com/user-attachments/assets/7b04a0e9-5791-4a7c-8967-5c95e6a00011" />
+
+<img width="1440" height="813" alt="Screenshot 2026-05-18 at 1 17 37 AM" src="https://github.com/user-attachments/assets/732abbc1-23a4-4768-a998-d254e02a46aa" />
+
+<img width="1180" height="555" alt="Screenshot 2026-05-18 at 1 18 06 AM" src="https://github.com/user-attachments/assets/9040cd80-1887-48da-99aa-ecf6875031f4" />
